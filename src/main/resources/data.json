@@ -1,0 +1,28 @@
+
+[  
+    {"entity":"Foo","action":"B","agreedfx":0.50,"currency":"SGP","instructiondate":"01 Jan 2016","settlementdate":"02 Jan 2016","units":200,"unitprice":100.25},
+    {"entity":"Bar","action":"S","agreedfx":0.22,"currency":"AED","instructiondate":"05 Jan 2016","settlementdate":"02 Jan 2016","units":450,"unitprice":150.5},
+    {"entity":"Plugh","action":"B","agreedfx":1.5,"currency":"SAR","instructiondate":"01 Jan 2016","settlementdate":"02 Jan 2016","units":200,"unitprice":100.25},
+    {"entity":"Corge","action":"S","agreedfx":1.8,"currency":"INR","instructiondate":"01 Jan 2016","settlementdate":"02 Jan 2016","units":200,"unitprice":110.25},
+    {"entity":"Plugh","action":"B","agreedfx":0.60,"currency":"EUR","instructiondate":"01 Jan 2016","settlementdate":"02 Jan 2016","units":200,"unitprice":100.25},
+    {"entity":"Xyzzy","action":"S","agreedfx":0.15,"currency":"USD","instructiondate":"01 Jan 2016","settlementdate":"02 Jan 2016","units":200,"unitprice":160.25},
+    {"entity":"Droop","action":"B","agreedfx":2.1,"currency":"SGP","instructiondate":"01 Jan 2016","settlementdate":"03 Jan 2016","units":200,"unitprice":100.25},
+    {"entity":"Piyo","action":"S","agreedfx":0.10,"currency":"AED","instructiondate":"01 Jan 2016","settlementdate":"03 Jan 2016","units":200,"unitprice":170.25},
+    {"entity":"Mike","action":"S","agreedfx":0.5,"currency":"SAR","instructiondate":"01 Jan 2016","settlementdate":"03 Jan 2016","units":200,"unitprice":108.25},
+    {"entity":"Smith","action":"B","agreedfx":0.160,"currency":"INR","instructiondate":"01 Jan 2016","settlementdate":"03 Jan 2016","units":200,"unitprice":50.25},
+    {"entity":"Kitty","action":"S","agreedfx":0.45,"currency":"EUR","instructiondate":"01 Jan 2016","settlementdate":"03 Jan 2016","units":200,"unitprice":10.25},
+    {"entity":"Rips","action":"B","agreedfx":1.33,"currency":"USD","instructiondate":"01 Jan 2016","settlementdate":"03 Jan 2016","units":200,"unitprice":506.25},
+    {"entity":"Sipo","action":"S","agreedfx":0.99,"currency":"SGP","instructiondate":"01 Jan 2016","settlementdate":"12 Jan 2016","units":200,"unitprice":11.25},
+    {"entity":"Octa","action":"S","agreedfx":0.770,"currency":"AED","instructiondate":"01 Jan 2016","settlementdate":"12 Jan 2016","units":200,"unitprice":66.25},
+    {"entity":"Nino","action":"S","agreedfx":2.15,"currency":"SAR","instructiondate":"01 Jan 2016","settlementdate":"12 Jan 2016","units":200,"unitprice":10.7},
+    {"entity":"Terra","action":"B","agreedfx":0.10,"currency":"INR","instructiondate":"01 Jan 2016","settlementdate":"12 Jan 2016","units":200,"unitprice":100.25},
+    {"entity":"Hexa","action":"S","agreedfx":1.28,"currency":"EUR","instructiondate":"01 Jan 2016","settlementdate":"12 Jan 2016","units":200,"unitprice":170.25},
+    {"entity":"Penta","action":"B","agreedfx":2.06,"currency":"USD","instructiondate":"01 Jan 2016","settlementdate":"12 Jan 2016","units":200,"unitprice":909.25},
+    {"entity":"Tink","action":"S","agreedfx":0.99,"currency":"SGP","instructiondate":"01 Jan 2016","settlementdate":"15 Jan 2016","units":200,"unitprice":170.25},
+    {"entity":"Rbow","action":"S","agreedfx":0.770,"currency":"AED","instructiondate":"01 Jan 2016","settlementdate":"15 Jan 2016","units":200,"unitprice":100.25},
+    {"entity":"Drizz","action":"S","agreedfx":2.15,"currency":"SAR","instructiondate":"01 Jan 2016","settlementdate":"15 Jan 2016","units":200,"unitprice":10.25},
+    {"entity":"Smit","action":"B","agreedfx":0.10,"currency":"INR","instructiondate":"01 Jan 2016","settlementdate":"15 Jan 2016","units":200,"unitprice":70.25},
+    {"entity":"File","action":"S","agreedfx":1.28,"currency":"EUR","instructiondate":"01 Jan 2016","settlementdate":"15 Jan 2016","units":200,"unitprice":430.25},
+    {"entity":"Jill","action":"B","agreedfx":2.06,"currency":"USD","instructiondate":"01 Jan 2016","settlementdate":"15 Jan 2016","units":200,"unitprice":100.25}
+    
+]
